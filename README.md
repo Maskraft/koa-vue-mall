@@ -7,9 +7,13 @@
 ``` bash
 # install dependencies
 npm install
+cd server/ && npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+ターミナル１：mongod
+ターミナル２：cd server/ && node index.js
+ターミナル３：npm run mock
+ターミナル４：npm run dev
 
 # build for production with minification
 npm run build
