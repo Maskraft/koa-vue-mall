@@ -11,7 +11,7 @@
     "mock": "json-server --watch static/mock-index.json"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "swiper": "^5.3.8",
     "vant": "^2.7.1",
     "vue": "^2.5.2",
